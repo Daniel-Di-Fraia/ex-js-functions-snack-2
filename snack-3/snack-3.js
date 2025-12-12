@@ -1,3 +1,6 @@
+// Crea una funzione eseguiOperazione
+// Definisci una funzione eseguiOperazione che accetta tre parametri: due numeri e una funzione operatore (callback). La funzione deve eseguire l'operazione fornita sui due numeri.
+
 const somma = (a,b) => a + b;
 const moltiplica = (a,b) => a * b;
 const sottrai = (a,b) => a - b;
